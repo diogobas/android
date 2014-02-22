@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button 
+           android:id="@+id/botao1"
+	       android:layout_width="fill_parent"
+	       android:layout_height="wrap_content"
+	       android:text="Botão 1"/>
+    
+    <Button 
+           android:id="@+id/botao2"
+	       android:layout_width="fill_parent"
+	       android:layout_height="wrap_content"
+	       android:text="Botão 2"/>
+    
+    <Button 
+           android:id="@+id/botao3"
+	       android:layout_width="fill_parent"
+	       android:layout_height="wrap_content"
+	       android:text="Botão 3"/>
+
+</LinearLayout>
